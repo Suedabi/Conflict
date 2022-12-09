@@ -11,3 +11,4 @@ ucuncu gun
 ucuncu gun ikinci deneme
 ucuncu gun ucuncu deneme
 Sueda branci ucuncu gun
+MASTER branch'i 2. eklmemem
